@@ -1,0 +1,11 @@
+THIS IS WHATSUP CODE:
+
+Author: Jayakumar
+
+1. Profile Page code
+
+2. Chat Screen Code
+
+3. Last seen code
+
+4. Attachements (Image, Audio, Video) code
